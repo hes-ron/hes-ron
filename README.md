@@ -1,5 +1,4 @@
 # Olá me chamo Hesron
 
-### Abaixo está uma breve apresentação do que eu conheço e aplico no meu dia a dia!
-
-![Minhas habilidades](Tree.png)
+Trabalho com React e Java e estou estudando Flutter
+Me interesso por arquitetura de softwares
