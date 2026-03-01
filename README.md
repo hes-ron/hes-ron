@@ -17,6 +17,7 @@ products, subscriptions and internal back-office systems in production.
 -   AWS SQS
 -   Docker
 -   Kubernetes
+-   Kafka
 
 I care about clean code, good architecture and building services that
 are simple, reliable and easy to maintain.
